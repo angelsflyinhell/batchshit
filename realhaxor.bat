@@ -10,6 +10,8 @@ echo %num% %num% %num% %num% %num% %num% %num% %num% %num% %num% %num% %num% %nu
 
 tree 
 
+echo you have been hacked
+
 goto 1
 
 pause
